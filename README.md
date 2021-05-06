@@ -1,8 +1,10 @@
 # Trabalho de LP - Criação de uma Linguagem
 
-Trabalho da matéria de Linguagens de Programação
-14/0065032 - Pedro Nogueira
-UnB - 2020/2
+Trabalho da matéria de Linguagens de Programação  
+14/0065032 - Pedro Nogueira  
+13/0143049 - [João Pedro de Salles Braga](https://github.com/jaopsb)  
+17/0129306 - Alícia Rita Oliveira Dos Reis  
+UnB - 2020/2  
 
 ## Especificações
 
